@@ -3,3 +3,4 @@ thisis a second file
 this is a third file
 this is a fourth line
 this is a fifth line
+this is a sixth line
